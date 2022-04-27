@@ -7,6 +7,8 @@ This project is primarily completed.
 Further areas of improvements include building a more suitable host to display all the graphs, instead of loading them one by one, and further refining the code.
 
 ## Project Screenshots
+![image](https://user-images.githubusercontent.com/55005753/165621962-f0cf33ef-58e8-4209-8fe3-6209e2d892ae.png)
+
 
 ## Setup
 This project is done entirely in Python 3.9.
