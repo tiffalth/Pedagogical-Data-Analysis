@@ -1,14 +1,24 @@
 # Pedagogical Data Analysis Project
 An analysis of user traffic data collected from eCHIRP, a UBC-hosted server with resources to support students' learning of UBC Chemistry curriculum.
-Traffic data (omitted in the repo) is collected as a JSON file, with the analysis done in Python.
+User data (omitted in the repo) is collected as a JSON file, with the analysis done in Python.
 
 ## Project Status
 This project is primarily completed. 
 Further areas of improvements include building a more suitable host to display all the graphs, instead of loading them one by one, and further refining the code.
 
 ## Project Screenshots
+Analyzing how often students access videos in the server through histogram of student ID to number of views (student ID blurred for confidentiality purposes)
+
 ![image](https://user-images.githubusercontent.com/55005753/165621962-f0cf33ef-58e8-4209-8fe3-6209e2d892ae.png)
+
+Analyzing students' interaction with watching interactive videos vs non-interactive videos.
+In here, we define interactive videos as videos with clickable elements in it (e.g. A question students can answer embedded in the video)
+
 ![image](https://user-images.githubusercontent.com/55005753/165622105-a667bc6c-c28f-4bd3-9a8f-07136a37cbfa.png)
+
+Analyzing progression of actions students take when they watch a video (student ID blurred for confidentiality purposes)
+
+![image](https://user-images.githubusercontent.com/55005753/165622221-f5e29cfb-c554-47ef-8418-26c63a64795a.png)
 
 ## Setup
 This project is done entirely in Python 3.9.
