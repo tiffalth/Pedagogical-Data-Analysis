@@ -8,7 +8,7 @@ Further areas of improvements include building a more suitable host to display a
 
 ## Project Screenshots
 ![image](https://user-images.githubusercontent.com/55005753/165621962-f0cf33ef-58e8-4209-8fe3-6209e2d892ae.png)
-
+![image](https://user-images.githubusercontent.com/55005753/165622105-a667bc6c-c28f-4bd3-9a8f-07136a37cbfa.png)
 
 ## Setup
 This project is done entirely in Python 3.9.
